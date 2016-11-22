@@ -1,0 +1,6 @@
+framework module CFExtension {
+  umbrella header "CFExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

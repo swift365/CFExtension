@@ -1,0 +1,16 @@
+PODS:
+  - CFExtension (0.1.0)
+
+DEPENDENCIES:
+  - CFExtension (from `../`)
+
+EXTERNAL SOURCES:
+  CFExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CFExtension: 29a3ea100706af8aa460aa8782160762df7935f0
+
+PODFILE CHECKSUM: c46fc7fcf9b5d3850f3aad6b0ec3d4da66e8609f
+
+COCOAPODS: 1.1.1
