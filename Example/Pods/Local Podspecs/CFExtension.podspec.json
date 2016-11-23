@@ -1,6 +1,6 @@
 {
   "name": "CFExtension",
-  "version": "0.1.0-beta",
+  "version": "0.2.0",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
   },
   "source": {
     "git": "https://github.com/swift365/CFExtension.git",
-    "tag": "0.1.0-beta"
+    "tag": "0.2.0"
   },
   "platforms": {
     "ios": "9.0"
@@ -20,13 +20,5 @@
   "source_files": [
     "CFExtension/Classes/*.swift",
     "CFExtension/Classes/**/*.swift"
-  ],
-  "dependencies": {
-    "JGProgressHUD": [
-      "~> 1.4"
-    ],
-    "MBProgressHUD": [
-      "~> 1.0.0"
-    ]
-  }
+  ]
 }

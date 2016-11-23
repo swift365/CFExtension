@@ -1,9 +1,5 @@
 PODS:
-  - CFExtension (0.1.0-beta):
-    - JGProgressHUD (~> 1.4)
-    - MBProgressHUD (~> 1.0.0)
-  - JGProgressHUD (1.4)
-  - MBProgressHUD (1.0.0)
+  - CFExtension (0.2.0)
 
 DEPENDENCIES:
   - CFExtension (from `../`)
@@ -13,10 +9,8 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  CFExtension: ca5ac821154f913aaddd56caf74c1f018e012eb6
-  JGProgressHUD: 1617b0940cf80bb53e8f7d6f0fd69252ea45d6d4
-  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  CFExtension: de26e5b9ea86b6618c5614d2de502a68eec33780
 
-PODFILE CHECKSUM: 23e9618a7545de4232c8d892d5b69185dc6643c2
+PODFILE CHECKSUM: 5a1ac5f00e5ac52a8a5f3cdf07570a6eb9b5c62a
 
 COCOAPODS: 1.1.1
