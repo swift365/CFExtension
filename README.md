@@ -11,6 +11,10 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+- iOS 9.0+
+- Xcode8+
+- Swift 3
+
 ## Installation
 
 CFExtension is available through [CocoaPods](http://cocoapods.org). To install
