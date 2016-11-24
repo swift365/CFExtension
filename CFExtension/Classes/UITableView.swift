@@ -2,8 +2,8 @@
 //  UITableView.swift
 //  CFExtension
 //
-//  Created by 衡成飞 on 10/18/16.
-//  Copyright © 2016年 vsto. All rights reserved.
+//  Created by 衡成飞 on 11/18/16.
+//  Copyright © 2016年 chengfeisoft. All rights reserved.
 //
 // http://stackoverflow.com/questions/3832474/uitableview-row-animation-duration-and-completion-callback
 

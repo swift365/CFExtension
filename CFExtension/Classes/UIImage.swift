@@ -2,8 +2,8 @@
 //  UIImage.swift
 //  CFExtension
 //
-//  Created by 衡成飞 on 11/8/16.
-//  Copyright © 2016 qianwang365. All rights reserved.
+//  Created by 衡成飞 on 11/18/16.
+//  Copyright © 2016 chengfeisoft. All rights reserved.
 //
 
 import UIKit

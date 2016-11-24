@@ -2,8 +2,8 @@
 //  UIColor.swift
 //  CFExtension
 //
-//  Created by 衡成飞 on 10/18/16.
-//  Copyright (c) 2015年 chengfeisoft. All rights reserved.
+//  Created by 衡成飞 on 11/18/16.
+//  Copyright (c) 2016年 chengfeisoft. All rights reserved.
 //
 
 import UIKit
